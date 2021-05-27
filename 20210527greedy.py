@@ -1,4 +1,4 @@
-#greedy algorithm
+#greedy algorithmdf
 T = [25, 5]
 count = 0
 while T[0] > 1 :
